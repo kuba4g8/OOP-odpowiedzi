@@ -1,11 +1,8 @@
 # 🧠 Programowanie Obiektowe — Repozytorium z Zadaniami
 
 ## 👤 Dane studenta
-- **Imię i nazwisko:** _[Wpisz tutaj]_  
-- **Wydział:** _[Wpisz tutaj]_  
-- **Kierunek:** _[Wpisz tutaj]_  
-- **Rok akademicki:** _[Wpisz tutaj]_  
-- **Semestr:** _[Wpisz tutaj]_  
+- **Imię i nazwisko:** _Jakub Holdys_  
+- **Semestr:** _3_  
 
 ---
 
@@ -32,15 +29,9 @@ Repozytorium ma prostą i zrozumiałą strukturę katalogów:
   - plik `.md` z opisem zadania, analizą i komentarzami.
 
 - **`Labolatoria/`** – zawiera zadania wykonywane na zajęciach laboratoryjnych.  
-  Każdy folder (`Lab1`, `Lab2`, itd.) działa na tej samej zasadzie co zadania z wykładów.
+  Każdy folder (`Zad1`, `Zad2`, itd.) działa na tej samej zasadzie co zadania z wykładów.
 
 Każde zadanie jest **samodzielne** – można je otworzyć osobno w IntelliJ IDEA i uruchomić niezależnie od reszty.
-
-Aktualnie w repozytorium znajduje się:
-- folder `Wyklady/Zad1/` z przykładowym zadaniem i kodem źródłowym.
-
-Repozytorium będzie sukcesywnie rozbudowywane wraz z postępem kursu.
-
 ---
 
 ## ⚙️ Technologie i narzędzia
