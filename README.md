@@ -11,11 +11,6 @@
 To repozytorium zawiera wszystkie **zadania realizowane w ramach zajęć z Programowania Obiektowego (OOP)**.  
 Wszystkie rozwiązania są napisane w języku **Java** i przygotowane w środowisku **IntelliJ IDEA**.
 
-Repozytorium jest uporządkowane tak, aby:
-- ułatwić prowadzącemu szybkie odnalezienie konkretnego zadania,
-- zapewnić przejrzystość między różnymi częściami kursu (np. wykłady, laboratoria),
-- oddzielić kod źródłowy od sprawozdań i opisów.
-
 ---
 
 ## 🧭 Struktura repozytorium
@@ -32,6 +27,7 @@ Repozytorium ma prostą i zrozumiałą strukturę katalogów:
   Każdy folder (`Zad1`, `Zad2`, itd.) działa na tej samej zasadzie co zadania z wykładów.
 
 Każde zadanie jest **samodzielne** – można je otworzyć osobno w IntelliJ IDEA i uruchomić niezależnie od reszty.
+
 ---
 
 ## ⚙️ Technologie i narzędzia
@@ -43,8 +39,7 @@ Repozytorium zostało przygotowane w oparciu o następujące technologie i narz�
 | **Java**                 | Główny język programowania, wykorzystywany do implementacji zadań |
 | **IntelliJ IDEA**        | Środowisko programistyczne (IDE) używane do tworzenia i uruchamiania kodu |
 | **Git**                  | System kontroli wersji do śledzenia zmian w kodzie |
-| **GitHub**               | Zdalne repozytorium do przechowywania i udostępniania kodu |
-| **Markdown (`.md`)**     | Format plików używany do sprawozdań i opisów zadań |
+| **Markdown (`.md`)**     | ReadME |
 
 ---
 
@@ -80,11 +75,3 @@ Repozytorium ma na celu:
 - ułatwienie weryfikacji kodu i sprawozdań przez prowadzącego.
 
 ---
-
-## ✍️ Autor
-
-**Jakub Hołdys**  
-📅 Rok akademicki: _[uzupełnij]_  
-🏫 Wydział: _[uzupełnij]_  
-📚 Kierunek: _[uzupełnij]_  
-💻 Repozytorium edukacyjne — przygotowane w ramach zajęć z Programowania Obiektowego.
