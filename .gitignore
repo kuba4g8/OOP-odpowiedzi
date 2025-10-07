@@ -1,0 +1,23 @@
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+out/
+
+# === Java build files ===
+*.class
+*.jar
+*.war
+*.ear
+**/bin/
+**/build/
+**/target/
+
+# === OS/system files ===
+.DS_Store
+Thumbs.db
+
+# === Editors ===
+.vscode/
+
+# === Logs ===
+*.log
