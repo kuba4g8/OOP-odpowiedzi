@@ -5,9 +5,13 @@ public class Main
 	public static void main(String[] args)
 	{
 		// zadanie 1
+		
+		Utils.print("ZADANIE1-----------------------------------------------");
 		Zad1.DemoMetod.info();
 		Utils.print(Zad1.DemoMetod.imie("Kuba"));
+		Utils.print("---ZADANIE1-----------------------------------------------");
 		
+		Utils.print("ZADANIE2-----------------------------------------------");
 		//zadania 2
 		try
 		{
@@ -28,6 +32,9 @@ public class Main
 		{
 			Utils.print(ex.toString());
 		}
+		Utils.print("---ZADANIE2-----------------------------------------------");
+		
+		Utils.print("ZADANIE3-----------------------------------------------");
 		
 		//zadanie 3
 		try
@@ -40,7 +47,9 @@ public class Main
 		{
 			Utils.print(ex.toString());
 		}
+		Utils.print("---ZADANIE3-----------------------------------------------");
 		
+		Utils.print("ZADANIE4-----------------------------------------------");
 		//zadanie 4
 		try
 		{
@@ -54,11 +63,15 @@ public class Main
 		{
 			Utils.print(ex.toString());
 		}
+		Utils.print("---ZADANIE4-----------------------------------------------");
 		
+		
+		Utils.print("ZADANIE5-----------------------------------------------");
 		//zadanie 5
 		for (int i = 0; i < 20; i++)
 		{
 			Zad5.IDGenenrator.nextID();
 		}
+		Utils.print("---ZADANIE5-----------------------------------------------");
 	}
 }
