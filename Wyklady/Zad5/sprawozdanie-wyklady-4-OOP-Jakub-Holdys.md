@@ -154,6 +154,7 @@ public class PytanieKonstruktor {
 }
 ```
 Nie, nie ma. Ma juz zdefiniowany ktory wyglada tak samo jak domyslny ale jest zdefiniowany. YYYYY
+
 11. Jaki będzie wynik kompilacji i uruchomienia poniższej klasy?
 ```java
 public class PytanieKonstruktor {
@@ -193,6 +194,7 @@ public class PytanieKonstruktor {
 }
 ```
 Kompilacja wykona się, ale nic nie napisze ponieważ w main jest podany argument. Obiekt tylko przypisze liczbe 10 to this.liczba
+
 13. Jaki będzie wynik kompilacji i uruchomienia poniższej klasy?
 ```java
 public class PytanieKonstruktor {
@@ -236,6 +238,7 @@ output:
 x = 0
 ```
 Wyswietlilo sie x = 0, poniewaz 0 jest domyslna wartoscia jaka `java` przypisuje pod zmienna `int`
+
 15. Jaki będzie wynik kompilacji i uruchomienia poniższej klasy?
 ```java
 public class PytanieKonstruktor {
@@ -256,6 +259,7 @@ public class PytanieKonstruktor {
 java: invalid method declaration; return type required
 ```
 Wyswietlilo sie cos takiego poniewaz java traktuje `Pytaniekonstruktor` jako metode, poniewaz konstruktor jest z malej litery a to juz inna nazwa niz taka sama jak w klasie.
+
 16. Jaki będzie wynik kompilacji i uruchomienia poniższej klasy?
 ```java
 public class PytanieKonstruktor {
@@ -285,4 +289,5 @@ Poniewaz w pierwszym przypadku nie dalismy zadnego argumentu x przypisal sie do 
 ```java
 x = x;
 ```
+
 Z tego powodu argument jest przypisywany argumentowi
